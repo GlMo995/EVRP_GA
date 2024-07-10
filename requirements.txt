@@ -1,0 +1,5 @@
+numpy==1.19
+matplotlib==3.3.4
+deap==1.4.1
+seaborn==0.13.2
+
